@@ -8,6 +8,7 @@ A **Data Engineer** passionate about building robust data pipelines, manipulatin
 
 - **Programming:** Python 🐍
 - **Database & Querying:** SQL (T-SQL / SQL Server) 🛢️
+- **Data Modeling & BI:** Power BI (data modeling, relationships, star schema) 📊
 - **Version Control:** Git, GitHub 🐙
 
 ---
@@ -15,7 +16,6 @@ A **Data Engineer** passionate about building robust data pipelines, manipulatin
 ## 🎯 Current Focus & Learning Journey
 
 - ⚙️ **Python for Data Engineering:** ETL/ELT pipeline design, data wrangling, and script automation.
-- 📊 **Data Modeling in Power BI:** Building relationships, schemas, and understanding how models drive reporting.
 
 ---
 
