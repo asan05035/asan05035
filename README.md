@@ -8,7 +8,7 @@ A **Data Engineer** passionate about building robust data pipelines, manipulatin
 
 - **Programming:** Python 🐍
 - **Database & Querying:** SQL (T-SQL / SQL Server) 🛢️
-- **Data Modeling & BI:** Power BI (data modeling, relationships, star schema) 📊
+- **Data Modeling & BI:** Power BI (star schema, relationships) 📊
 - **Version Control:** Git, GitHub 🐙
 
 ---
@@ -21,7 +21,7 @@ A **Data Engineer** passionate about building robust data pipelines, manipulatin
 
 ## 🔭 Next Up
 
-- 🧱 **Databricks + Azure + Spark:** Planning to dive into this stack after Python, to build end-to-end pipelines on the cloud.
+- 🧱 **Databricks + Spark:** Planning to dive into this stack after Python, to build end-to-end pipelines using PySpark, Delta Lake, and the medallion architecture.
   
 <!--
 **asan05035/asan05035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
