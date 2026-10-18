@@ -1,28 +1,22 @@
-# Hi there, I'm Asan ! 👋
+# Hi there, I'm Asan! 👋
 
-A **Data Engineer** passionate about building robust data pipelines, manipulating large datasets, and turning raw data into actionable business insights.
+A **Data Engineer** passionate about building robust data pipelines, working with large datasets, and turning raw data into actionable business insights.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 - **Programming:** Python 🐍
-- **Database & Querying:** SQL (T-SQL / SQL Server) 🛢️
+- **Databases & Querying:** SQL (T-SQL / SQL Server) 🛢️
 - **Data Modeling & BI:** Power BI (star schema, relationships) 📊
 - **Version Control:** Git, GitHub 🐙
 
 ---
 
-## 🎯 Current Focus & Learning Journey
+## 🎯 Currently Learning
 
-- ⚙️ **Python for Data Engineering:** ETL/ELT pipeline design, data wrangling, and script automation.
-
----
-
-## 🔭 Next Up
-
-- 🧱 **Databricks + Spark:** Planning to dive into this stack after Python, to build end-to-end pipelines using PySpark, Delta Lake, and the medallion architecture.
-  
+- 🐍 **Python OOP:** classes, objects, and writing clean, reusable code
+- 🧱 **Next up:** Databricks + Spark (PySpark, Delta Lake, medallion architecture) for end-to-end pipelines
 <!--
 **asan05035/asan05035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
