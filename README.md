@@ -15,7 +15,7 @@ A **Data Engineer** passionate about building robust data pipelines, working wit
 
 ## 🎯 Currently Learning
 
-- 🐍 **Python OOP:** classes, objects, and writing clean, reusable code
+- 🧪 **Unit Testing in Python:** writing reliable, testable code with `pytest` and `unittest`
 - 🧱 **Next up:** Databricks + Spark (PySpark, Delta Lake, medallion architecture) for end-to-end pipelines
 <!--
 **asan05035/asan05035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
